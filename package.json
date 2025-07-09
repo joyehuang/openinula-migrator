@@ -17,6 +17,7 @@
   "license": "ISC",
   "dependencies": {
     "commander": "^14.0.0",
-    "jscodeshift": "^17.3.0"
+    "jscodeshift": "^17.3.0",
+    "vitest": "^3.2.4"
   }
 }
